@@ -21,7 +21,7 @@ sections:
     background_image: /images/hero-background.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 40
+    background_image_opacity: 20
     has_border: true
   - type: blog_feed_section
     title: Latest Episodes
