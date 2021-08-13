@@ -133,7 +133,7 @@ sections:
       - image: /images/jahirJ.png
         image_alt: Contentful logo
         image_align: center
-      - image: /images/arturo.png
+      - image: /images/arturoR.png
         image_alt: Forestry logo
         image_align: center
     grid_cols: four
