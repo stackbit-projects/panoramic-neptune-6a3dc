@@ -118,7 +118,7 @@ sections:
       - image: /images/ganesha.png
         image_alt: Netlify logo
         image_align: center
-      - image: /images/alam.jpg
+      - image: /images/alam.png
         image_alt: Sticker Mule logo
         image_align: center
       - image: /images/alaMarcAgua.png
