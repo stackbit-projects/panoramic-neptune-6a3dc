@@ -1,5 +1,5 @@
 ---
-title: 'Director General: Arturo Del Rio:'
+title: 'Director General: Arturo Del Rio'
 subtitle: 'Director General '
 date: '2021-05-12'
 categories:
