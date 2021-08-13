@@ -141,6 +141,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
+    background_image: /images/pattern.svg
   - type: form_section
     content: >-
       ## Ask A Question
