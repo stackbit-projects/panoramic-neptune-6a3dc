@@ -127,7 +127,7 @@ sections:
       - image: /images/lunaWhite4x3.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-6.svg
+      - image: /images/jahir.png
         image_alt: Twilio logo
         image_align: center
       - image: images/logo-7.svg
