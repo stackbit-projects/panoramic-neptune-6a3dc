@@ -133,7 +133,7 @@ sections:
       - image: /images/seitai.jpg
         image_alt: Contentful logo
         image_align: center
-      - image: /images/protege.jpeg
+      - image: /images/arturo.png
         image_alt: Forestry logo
         image_align: center
     grid_cols: four
