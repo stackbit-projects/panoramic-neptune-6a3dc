@@ -1,5 +1,5 @@
 ---
-title: Arturo Del Rio
+title: 'Arturo Del Rio:'
 subtitle: 'Director General '
 date: '2021-05-12'
 categories:
