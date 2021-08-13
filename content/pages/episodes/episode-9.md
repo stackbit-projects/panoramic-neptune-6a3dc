@@ -3,7 +3,7 @@ title: ' Director Operativo: Jahir Ramos'
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2021-01-04'
+date: '2010-09-04'
 categories:
   - content/data/categories/season-2.yaml
 thumb_image: /images/jahi.jpg
