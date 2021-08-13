@@ -127,7 +127,7 @@ sections:
       - image: /images/protege.jpeg
         image_alt: Gatsby logo
         image_align: center
-      - image: /images/jahir.png
+      - image: /images/seitai.jpg
         image_alt: Twilio logo
         image_align: center
       - image: /images/seitai.jpg
