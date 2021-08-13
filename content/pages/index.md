@@ -130,7 +130,7 @@ sections:
       - image: /images/jahir.png
         image_alt: Twilio logo
         image_align: center
-      - image: images/logo-7.svg
+      - image: /images/seitai.jpg
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-8.svg
