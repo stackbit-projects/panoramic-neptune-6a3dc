@@ -142,6 +142,7 @@ sections:
     has_border: true
     background_color: none
     background_image: /images/pattern.svg
+    background_image_repeat: no-repeat
   - type: form_section
     content: >-
       ## Ask A Question
