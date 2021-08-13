@@ -1,5 +1,5 @@
 ---
-title: 'Jahir Ramos: Director Operativo'
+title: 'Jahir Ramos:'
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
