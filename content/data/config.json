@@ -33,7 +33,8 @@
             {
                 "label": "Subscribe",
                 "url": "/subscribe",
-                "style": "primary"
+                "style": "primary",
+                "has_icon": true
             }
         ]
     },
