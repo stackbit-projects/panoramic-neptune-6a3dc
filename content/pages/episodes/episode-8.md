@@ -1,5 +1,5 @@
 ---
-title: 'Frontend developer: Fernando Atrisco'
+title: 'Frontend Developer: Fernando Atrisco'
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
