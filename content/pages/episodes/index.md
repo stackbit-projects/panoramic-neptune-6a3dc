@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Colaboradores
-    subtitle: List of episodes in order
+    subtitle: Más cerca de ti
     align: center
     padding_top: medium
     padding_bottom: small
