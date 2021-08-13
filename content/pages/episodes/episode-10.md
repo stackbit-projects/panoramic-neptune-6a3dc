@@ -1,8 +1,6 @@
 ---
 title: Arturo Del Rio
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: 'Director General '
 date: '2021-05-12'
 categories:
   - content/data/categories/season-2.yaml
