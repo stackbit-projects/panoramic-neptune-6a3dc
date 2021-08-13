@@ -124,7 +124,7 @@ sections:
       - image: /images/alaMarcAgua.png
         image_alt: GitHub logo
         image_align: center
-      - image: /images/lunaWhite4x3.png
+      - image: /images/protege.jpeg
         image_alt: Gatsby logo
         image_align: center
       - image: /images/jahir.png
