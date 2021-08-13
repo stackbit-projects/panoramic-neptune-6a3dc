@@ -143,6 +143,7 @@ sections:
     background_color: none
     background_image: /images/pattern.svg
     background_image_repeat: repeat
+    background_image_position: left center
   - type: form_section
     content: >-
       ## Ask A Question
