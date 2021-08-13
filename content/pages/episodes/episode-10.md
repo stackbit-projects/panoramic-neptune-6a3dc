@@ -6,7 +6,7 @@ categories:
   - content/data/categories/season-2.yaml
 thumb_image: /images/arturo.jpg
 thumb_image_alt: Episode 10 placeholder image
-image: images/post-10.jpg
+image: /images/arturo.jpg
 image_alt: Episode 10 placeholder image
 image_position: right
 episode_embed_html: >-
