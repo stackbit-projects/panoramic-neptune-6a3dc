@@ -2,7 +2,7 @@
 title: Episodes
 sections:
   - type: hero_section
-    title: Episodes
+    title: Colaboradores
     subtitle: List of episodes in order
     align: center
     padding_top: medium
@@ -49,26 +49,26 @@ seo:
   title: Episodes
   description: This is the episodes page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Episodes
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the episodes page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-9.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Episodes
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the episodes page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-9.jpg
       relativeUrl: true
 layout: advanced
