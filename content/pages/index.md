@@ -127,7 +127,7 @@ sections:
       - image: /images/protege.png
         image_alt: Gatsby logo
         image_align: center
-      - image: /images/aromaterapia.png
+      - image: /images/aromaterapia1.png
         image_alt: Twilio logo
         image_align: center
       - image: /images/jahirJ.png
