@@ -144,7 +144,7 @@ sections:
     background_image: /images/pattern.svg
     background_image_repeat: repeat
     background_image_position: left center
-    background_image_size: cover
+    background_image_size: contain
   - type: form_section
     content: >-
       ## Ask A Question
