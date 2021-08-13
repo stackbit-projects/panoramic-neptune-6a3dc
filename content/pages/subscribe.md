@@ -3,7 +3,7 @@ title: Subscribe
 sections:
   - type: hero_section
     title: Proximamente
-    subtitle: Pick your favorite podcast platform
+    subtitle: Encuéntranos en tus plataformas favoritas
     align: center
     padding_top: large
     padding_bottom: none
