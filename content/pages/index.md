@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Bienvenido a Masradio.com
-    subtitle: Optional hero section subtitle
+    subtitle: ¡Mucho más que una radio en tu vida!
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
