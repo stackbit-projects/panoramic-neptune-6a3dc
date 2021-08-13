@@ -124,7 +124,7 @@ sections:
       - image: /images/seitai.png
         image_alt: GitHub logo
         image_align: center
-      - image: /images/protege.jpeg
+      - image: /images/protege.png
         image_alt: Gatsby logo
         image_align: center
       - image: /images/seitai.jpg
