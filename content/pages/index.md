@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Bienvenido a Masradio.com
     subtitle: ¡Mucho más que una radio en tu vida!
-    content: |
-      Una radio con visión global y divertida, desde el 2010 acompañándote.
+    content: >
+      ##### **Una radio con visión global y divertida, desde el 2010
+      acompañándote.**
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
