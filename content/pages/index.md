@@ -115,7 +115,7 @@ sections:
       - image: /images/esit.png
         image_alt: Stackbit logo
         image_align: center
-      - image: images/logo-2.svg
+      - image: /images/ganesha.jpeg
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
