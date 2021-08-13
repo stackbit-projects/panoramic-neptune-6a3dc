@@ -121,7 +121,7 @@ sections:
       - image: /images/alam.png
         image_alt: Sticker Mule logo
         image_align: center
-      - image: /images/ichiro.jpg
+      - image: /images/seitai.png
         image_alt: GitHub logo
         image_align: center
       - image: /images/protege.jpeg
