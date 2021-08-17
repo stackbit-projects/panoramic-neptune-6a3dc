@@ -68,7 +68,9 @@ export default class HeroSection extends React.Component {
                                                 'mx-auto': alignX === 'center',
                                                 'ml-auto': alignX === 'right'
                                             })}
-                                        />}
+                                        />
+                                        
+                                        }
                             </div>
                         )}
                         {hasText && (
