@@ -69,7 +69,7 @@ export default class HeroSection extends React.Component {
                                                 'ml-auto': alignX === 'right'
                                             })}
                                         />
-                                        <div style = "bottom: 0;display: flex;height: 80px;left: 0;position: fixed;right: 0;width: 100%;z-index: 1500;overflow: hidden;" ><iframe name="contenedorPlayer" class="cuadroBordeado" allow="autoplay" width="100%" height="8
+                                        
                                         }
                             </div>
                         )}
