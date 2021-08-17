@@ -69,7 +69,7 @@ export default class HeroSection extends React.Component {
                                                 'ml-auto': alignX === 'right'
                                             })}
                                         />
-                                        
+                                        <div style = "bottom: 0;display: flex;height: 80px;left: 0;position: fixed;right: 0;width: 100%;z-index: 1500;overflow: hidden;" ><iframe name="contenedorPlayer" class="cuadroBordeado" allow="autoplay" width="100%" height="80px" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no  src="https://radiohosting.online/9216"></iframe></div>
                                         }
                             </div>
                         )}
